@@ -1,14 +1,14 @@
-# Практики 2020-2021 (осенний семестр) ФН1
+# Практики (осенний семестр) ФН1
 
 ## Бакалавры
 
-[Первый курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_1grade/2020-2021)
+[Первый курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_1grade/fall)
 
-[Второй курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_2grade/2020-2021)
+[Второй курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_2grade/fall/problem)
 
-[Третий курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_3grade/2020-2021/problem)
+[Третий курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_3grade/fall/problem)
 
-[Четвёртый курс]
+[Четвёртый курс] - работа с научным руководителем
 
 
 ## Магистры
