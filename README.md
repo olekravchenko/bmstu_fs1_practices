@@ -2,11 +2,11 @@
 
 ## Бакалавры
 
-[Первый курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_1grade/fall)
+[Первый курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_1grade/fall/report_sample.pdf)
 
-[Второй курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_2grade/fall/problem)
+[Второй курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_2grade/fall/problem/problem.pdf)
 
-[Третий курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_3grade/fall/problem)
+[Третий курс](https://github.com/olekravchenko/bmstu_fs1_practices/tree/main/bach_3grade/fall/problem/problem.pdf)
 
 [Четвёртый курс] - работа с научным руководителем
 
